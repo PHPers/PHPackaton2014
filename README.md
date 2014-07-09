@@ -1,8 +1,8 @@
 PHPackaton2014
 ==============
 
-Repo has been moved.
+## FAQ
 
-For now we are [here](http://phpers.github.io/phpackaton)
+> Czy z jednego miasta może być więcej niż jeden team?
 
-Sorry for the inconvenience.
+Nie ma problemu, żeby z danego ośrodka było kilka teamów.
