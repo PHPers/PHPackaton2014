@@ -7,7 +7,9 @@ Project website: [PHPackaton 2014](http://phpers.github.io/phpackaton)
 
 ## Zgłoszenia
 
-Tu będą linki do wszystkich zgłoszonych i zatwierdzonych projektów :)
+* HyPhers, Warszawa - [Visio CRUD ZF2.0](https://github.com/HyPhers/hyphers-visio-crud-zf2)
+* Dzielne Misie, Trójmiasto - [Review Assist](https://github.com/dzielne-misie/review-assist)
+* Cocoders & Friends, Trójmiasto - [FileArchive](https://github.com/cocoders/FileArchive)
 
 ## FAQ
 
