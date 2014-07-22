@@ -10,6 +10,12 @@ Project website: [PHPackaton 2014](http://phpers.github.io/phpackaton)
 * HyPhers, Warszawa - [Visio CRUD ZF2.0](https://github.com/HyPhers/hyphers-visio-crud-zf2)
 * Dzielne Misie, Trójmiasto - [Review Assist](https://github.com/dzielne-misie/review-assist)
 * Cocoders & Friends, Trójmiasto - [FileArchive](https://github.com/cocoders/FileArchive)
+* IntegrityCrew, Kraków - [GIL](https://github.com/integritycrew/gil/)
+* Hackathoners, Poznań [Markup Translator](https://github.com/hackathoners/markup-translator)
+ 
+Powyższe pięć projektów będziemy śledzić w najbliższym czasie :)
+
+Powodzenia!
 
 ## FAQ
 
