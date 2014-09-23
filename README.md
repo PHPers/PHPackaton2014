@@ -1,6 +1,9 @@
 PHPackaton2014
 ==============
 
+## Głosowanie
+
+Prosimy o glosowanie w [ankiecie](https://www.facebook.com/events/262972110558121/permalink/291968200991845/?qa_ref=qd)
 ## Info
 
 Project website: [PHPackaton 2014](http://phpers.github.io/phpackaton)
